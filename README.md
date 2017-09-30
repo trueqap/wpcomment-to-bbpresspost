@@ -10,3 +10,5 @@ define('apps', 'apps/');
 include_once apps.'wpcomment-to-bbpresspost/index.php';
 
 3) Kész. A hozzászólás engedélyezése résznél tudod bekapcsolni. Ki kell választani, hogy melyik Fórumbakategóriába tegye be a WordPress bejegyzést. 
+
+Forrás WordPress plugin: https://wordpress.org/plugins/bbpress-post-topics/
